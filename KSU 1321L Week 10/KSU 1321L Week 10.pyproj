@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e5ec2da4-02ff-4cc1-a841-ba7f887f3270</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lab9B.py</StartupFile>
+    <StartupFile>Assignment5C.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assignment5C.py" />
+    <Compile Include="Assignment5B.py" />
+    <Compile Include="Assignment5A.py" />
     <Compile Include="Lab9A.py" />
     <Compile Include="Lab9B.py" />
   </ItemGroup>
